@@ -24,11 +24,12 @@ looking for better quality of:
 - https://raw.githubusercontent.com/lizz02/dailyteru/main/FGLjvmYUUAUU1gl.jpg
 - https://raw.githubusercontent.com/lizz02/dailyteru/main/FGLjzGGUYAAWo7i.jpg
 
-navigation:
-  season 1
+### navigation:
+season 1
   - FGLgZ_zVgAsgLqs
   - FGLjcD8WQAANFkI.jpg
-  season 2 images
+  - 
+season 2 images
   - 11618440.jpg to 11623034.jpg
   - FGLXLQ1UYBcYRFj.png to FGLbu0OUYAIOi6T.png
   - FGLgHgyVkAYM1ri.jpg
@@ -36,12 +37,14 @@ navigation:
   - FGLgu4-WUAA-kUd.jpg
   - FGLh6O9VgAE58b6.jpg to FGLj37vUcAETiMM.jpg
   - FGLjg1JVcAoob4V.jpg to FGLjzGGUYAAWo7i.jpg
-  ova
+
+ova
   - FGLco9EVQAM5mWg.png
   - FGLcqOsVcAoL8wL.png
   - FGLjcFlWUAYKGWD.jpg
   - FGLjcFmXsAoi1fG.jpg
-  manga
+
+manga
   - FGLjcD_XMAI94qF.jpg
   official art:
   - 21ec3efe755a3265cdda33f8dbf721fd.jpg to Dz_4snkVsAAiVs6.jpg
