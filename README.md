@@ -28,7 +28,8 @@ looking for better quality of:
 season 1
   - FGLgZ_zVgAsgLqs
   - FGLjcD8WQAANFkI.jpg
-  - 
+  - tumblr_ostzee9P9K1wuqoa9o1_1280.png to
+
 season 2 images
   - 11618440.jpg to 11623034.jpg
   - FGLXLQ1UYBcYRFj.png to FGLbu0OUYAIOi6T.png
@@ -46,8 +47,12 @@ ova
 
 manga
   - FGLjcD_XMAI94qF.jpg
-  official art:
+
+
+official art:
   - 21ec3efe755a3265cdda33f8dbf721fd.jpg to Dz_4snkVsAAiVs6.jpg
+  - IMG_0992.JPG to da7e94e95d172122ea7433ee3742821c.jpg
 
 unused:
 - FGLh2R3UUAUK5nk.jpg
+- IMG_7174.PNG
